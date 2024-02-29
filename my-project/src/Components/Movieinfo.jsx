@@ -3,7 +3,6 @@ import React from 'react'
 import Movieposter from './Movieposter'
 
 const Movieinfo = (props) => {
-  const {id}=props
   return (
     <div>
       <>
