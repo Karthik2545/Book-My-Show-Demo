@@ -1,0 +1,51 @@
+
+{
+    "content": [
+      {
+        "id": "1",
+        "src":"https://res.cloudinary.com/dulc7ullq/image/upload/v1708952642/workshop-and-more-web-collection-202211140440_nof5ws.avif",
+        "src1":"https://res.cloudinary.com/dulc7ullq/image/upload/v1709043145/88bf02bafb5654ed0764f9a197699f97_xz8kev.jpg",
+        "title":"Workshops in Hyderabad"
+      },
+      {
+        "id": "2",
+        "src":"https://res.cloudinary.com/dulc7ullq/image/upload/v1708953000/music-shows-collection-202211140440_yg7z55.avif",
+        "src1":"https://res.cloudinary.com/dulc7ullq/image/upload/v1709043145/media-mobile-stage-adda-presents-hyderabad-comedy-festival-2019-2019-10-18-t-15-46-42_ytmyjv.avif",
+        "title":"Hyderabad Comedy Festival"
+      },
+      {
+        "id": "3",
+        "src":"https://res.cloudinary.com/dulc7ullq/image/upload/v1708953000/comedy-shows-collection-202211140440_chxggb.avif",
+        "src1":"https://res.cloudinary.com/dulc7ullq/image/upload/v1709043145/music-banner-event-137560964_df8t3v.webp",
+        "title":"Music Festival"
+      },
+      {
+        "id": "4",
+        "src":"https://res.cloudinary.com/dulc7ullq/image/upload/v1708953002/arts-crafts-collection-202211140440_rocxi6.avif",
+        "src1":"https://res.cloudinary.com/dulc7ullq/image/upload/v1709043146/ARTS-AND-CRAFT-banner_aaixdo.jpg",
+        "title":"Arts and Crafts"
+      },
+      {
+        "id": "5",
+        "src":"https://in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:w-300/cooking-collection-202007222211.png",
+        "src1":"https://res.cloudinary.com/dulc7ullq/image/upload/v1709043154/Best-indian-cooking-tv-shows-featured_hyeo9w.png",
+        "title":"Indias Best TV Booking Shows"
+      },
+      {
+        "id": "6",
+        "src":"https://in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:w-300/adventure-collection-202010140844.png"
+      },
+      {
+        "id": "7",
+        "src":"https://res.cloudinary.com/dulc7ullq/image/upload/v1708953000/upskill-collection-202211140440_cpupkw.avif"
+      },
+      {
+        "id": "8",
+        "src":"https://res.cloudinary.com/dulc7ullq/image/upload/v1708953000/interactive-games-collection-202211140440_ykhesp.avif"
+      },
+      {
+        "id": "9",
+        "src":"https://res.cloudinary.com/dulc7ullq/image/upload/v1708953001/kids-zone-collection-202211140440_pi9axv.avif"
+      }
+    ]
+}
